@@ -1,6 +1,5 @@
 #!/bin/bash
 # CamPics v1.0
-# Powered by TechEthical
 
 trap 'printf "\n";stop' 2
 
