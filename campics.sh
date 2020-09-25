@@ -15,7 +15,6 @@ printf "\e[1;92m | |      | (   ) || |   | || (         | |   | |            ) |
 printf "\e[1;92m | (____/\| )   ( || )   ( || )      ___) (___| (____/\/\____) |\e[0m\n"
 printf "\e[1;92m (_______/|/     \||/     \||/       \_______/(_______/\_______)\e[0m\n\n"
 
-printf " \e[1;77m https://www.youtube.com/techethical \e[0m \n"
 
 printf "\n"
 
